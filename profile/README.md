@@ -1,7 +1,8 @@
 # PayTechUz 💙
 ### Uzbekistan Payment Providers Packages
 
-<img align="right" height="270" width="270" src="https://github.com/PayTechUz/.github/assets/73847672/90e1c28a-f3ae-409a-8d8c-341b0fbe39e3" >
+[<img align="right" alt="PayTechUz" height="270" width="270" src="https://github.com/PayTechUz/.github/assets/73847672/90e1c28a-f3ae-409a-8d8c-341b0fbe39e3" />](https://pay-tech.uz)
+
 
 Welcome to the PayTechUz organization! This project aims to provide developers with seamless integration and implementation of Payment Providers APIs in Uzbekistan. Whether you're a Python enthusiast or a Go guru, we've got you covered with our versatile tech stack.
 
@@ -34,8 +35,8 @@ Join our vibrant developer community on Telegram to connect with fellow develope
 
 We have carefully chosen the following tech stack to ensure flexibility and ease of use:
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+- [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
+- [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 
 The combination of Python and Go offers a wide range of possibilities to cater to the preferences of different developers.
 
