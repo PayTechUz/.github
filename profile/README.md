@@ -5,9 +5,6 @@
 
 Welcome to the PayTechUz organization! This project aims to provide developers with seamless integration and implementation of Payment Providers APIs in Uzbekistan. Whether you're a Python enthusiast or a Go guru, we've got you covered with our versatile tech stack.
 
-
-
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -48,7 +45,7 @@ Our packages are designed to streamline the integration process. Follow the deta
 
 ## Contributing
 
-We welcome contributions from the community to make this project even better. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Please ensure you follow our [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions from the community to make this project even better. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Please ensure you follow our [contribution guidelines](https://github.com/PayTechUz/.github/blob/main/profile/CONTRIBUTING.md).
 
 ## Support
 
@@ -56,7 +53,7 @@ If you encounter any problems, have questions, or need assistance with the integ
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.txt), making it open and free for everyone to use, modify, and distribute.
+This project is licensed under the [MIT License](https://github.com/PayTechUz/.github/blob/main/profile/LICENSE.txt), making it open and free for everyone to use, modify, and distribute.
 
 ---
 
