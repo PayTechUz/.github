@@ -31,7 +31,7 @@ Visit our website [pay-tech.uz](https://pay-tech.uz) to explore detailed documen
 
 Join our vibrant developer community on Telegram to connect with fellow developers, ask questions, share experiences, and stay updated with the latest news and announcements.
 
-[Telegram Group](https://t.me/+ydVV_9B3Xh02NGEy)
+[Telegram Group](https://t.me/+krHlGUizJrI1Zjli)
 
 ## Tech Stack
 
