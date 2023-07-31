@@ -56,7 +56,7 @@ If you encounter any problems, have questions, or need assistance with the integ
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), making it open and free for everyone to use, modify, and distribute.
+This project is licensed under the [MIT License](LICENSE.txt), making it open and free for everyone to use, modify, and distribute.
 
 ---
 
