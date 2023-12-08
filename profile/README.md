@@ -59,3 +59,5 @@ This project is licensed under the [MIT License](https://github.com/PayTechUz/.g
 ---
 
 We hope our PayTechUz packages make your payment integration process a delightful experience. Happy coding!
+
+<a href="https://www.buymeacoffee.com/paytechuz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
